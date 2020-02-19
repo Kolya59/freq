@@ -1,2 +1,1 @@
 This is the text example This is
-Ехала анонимная функция через анонимную функцию
